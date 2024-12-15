@@ -91,3 +91,5 @@ pip install -r requirements.txt
 Run the application using Streamlit:
 streamlit run ai_services_agency/agency.py
 
+Streamlit will provide a local URL (typically http://localhost:8501)
+
