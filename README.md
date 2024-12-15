@@ -2,9 +2,16 @@
 
 AI Services Agency is an AI-driven application simulating a full-service digital agency. It utilizes multiple AI agents to analyze and plan software projects. Each agent represents a distinct role in the project lifecycle, from strategic planning to technical implementation.
 
-## Features
+## 🌐 Live Demo
 
-### Five Specialized AI Agents
+You can try out the live demo of the AI Services Agency on Hugging Face:  
+[🔗 AI Services Agency - Hugging Face](https://huggingface.co/spaces/shallou/AIServicesAgency)  
+
+---
+
+## 📋 Features
+
+### 🧑‍💼 Five Specialized AI Agents
 
 - **CEO Agent**: Strategic leader and final decision maker
   - Analyzes startup ideas with structured evaluation.
@@ -30,7 +37,9 @@ AI Services Agency is an AI-driven application simulating a full-service digital
   - Plans customer acquisition approaches.
   - Coordinates with the product team.
 
-### Custom Tools
+---
+
+## 🔧 Custom Tools
 
 - **Analysis Tools**: 
   - `AnalyzeProjectRequirements` for market evaluation and startup idea analysis.
@@ -38,32 +47,41 @@ AI Services Agency is an AI-driven application simulating a full-service digital
 - **Technical Tools**: 
   - `CreateTechnicalSpecification` for technical assessments.
 
-### Asynchronous Communication
+---
+
+## 🔄 Asynchronous Communication
 
 - Enables parallel processing of analysis tasks from different agents.
 - Efficient collaboration in real-time with non-blocking operations for better performance.
 
-### Agent Communication Flows
+---
+
+## ↔️ Agent Communication Flows
 
 - **CEO ↔️ All Agents** (Strategic Oversight)
 - **CTO ↔️ Developer** (Technical Implementation)
 - **Product Manager ↔️ Marketing Manager** (Go-to-Market Strategy)
 - **Product Manager ↔️ Developer** (Feature Implementation)
 
-## How to Run
+---
+
+## 🚀 How to Run
 
 To set up and run the application, follow these steps:
 
-### 1. Get Your OpenAI API Key
+### 1️⃣ Get Your OpenAI API Key
 
 First, you need an OpenAI API key. Obtain it [here](https://platform.openai.com/api-keys).
 
-### 2. Clone the Repository
+---
+
+### 2️⃣ Clone the Repository
 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/aelghezzaz/AI-Services-Agency.git
+git clone https://github.com/aelghezzaz/
+
 
  3. Install Dependencies
 Install the required dependencies using pip:
